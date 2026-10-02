@@ -53,4 +53,4 @@ behavior.
 
 The complete project report is available here:
 
-[Read the Project Report]([(https://github.com/Spandan-Mandal-05/Nanophotonic/blob/main/Spandan_Mandal_TIFR_Project_Report.pdf))
+[Read the Project Report](https://github.com/Spandan-Mandal-05/Nanophotonic/blob/main/Spandan_Mandal_TIFR_Project_Report.pdf)
